@@ -1,0 +1,32 @@
+[
+  {
+    "id": "ia_drongo",
+    "title": "2026: Este grito de ave es un robo",
+    "thumb": "MIENTE Y COME",
+    "category": "15",
+    "role": "ia",
+    "voice": "es-MX-DaliaNeural",
+    "duration_sec": 154.85,
+    "words": 389
+  },
+  {
+    "id": "fe_hortelano",
+    "title": "2026: Lo confundió con el jardinero",
+    "thumb": "NO ERA HUERTO",
+    "category": "27",
+    "role": "fe",
+    "voice": "es-MX-JorgeNeural",
+    "duration_sec": 145.18,
+    "words": 356
+  },
+  {
+    "id": "cu_menisco",
+    "title": "2026: Esa media luna no es hueso",
+    "thumb": "NO ES HUESO",
+    "category": "27",
+    "role": "cu",
+    "voice": "es-CO-SalomeNeural",
+    "duration_sec": 141.5,
+    "words": 332
+  }
+]
